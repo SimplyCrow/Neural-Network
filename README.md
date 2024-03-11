@@ -1,12 +1,12 @@
 # Neural Network
-Das ist ein simpiles Projekt das den Lernprosses des echten lebens durch mutationen simuliert. 
-Jeder kreis muss energie sammel da er welche verliert.
-Das gehirn ist ein FNN (feedforward neural network).
-Wenn ein kreis genug energie gesammelt hat wird er sterben aber zwei kinder erzeugen die jeweils ein leicht unterschiedlich gehirn haben kann.
-Diese änderung sind zufällig. Damit überlebt nur der mit der besten einsammel Technik der Nahrung und wird vieleicht noch besser durch die änderungen.
+Das ist ein kleines Projekt, das den Lernprozess des echten Lebens durch Evolution simuliert. 
+Jeder Kreis muss Energie sammeln, da er jede Sekunde, welche verliert.
+Das Gehirn ist ein FNN (feedforward Neural Network).
+Wenn ein Kreis genug Energie gesammelt hat, wird er sterben, aber zwei Kinder erzeugen, die jeweils ein leicht unterschiedliches Gehirn haben können.
+Diese Änderungen sind zufällig. Damit überlebt nur der mit der besten Einsammeltechnik der Nahrung und wird vielleicht noch besser durch die Änderungen.
 
-Wenn alle sterben sollten werden wieder 200 Kreise erzeugt bis irgendwann eine gute Technik gefunden wird.
-Es wird alle 7 Sekunden 250 neue Nahrung erzeugt. Jede nahrung verschwindet aber wieder nach 15 Sekunden nach seiner erscheinung.
+Wenn alle sterben sollten, werden wieder 200 Kreise erzeugt, bis irgendwann eine gute Technik gefunden wird.
+Es wird alle 7 Sekunden 250 neue Nahrung erzeugt. Jede Nahrung verschwindet aber wieder nach 15 Sekunden nach seiner Erzeugung.
 
 ## Programm
 Es ist ein Unity Projekt mit der Unity Version 2021.3.13f1. Es ist auch eine kompilierte Version im Build Ordner für Windows 64 Bit.
