@@ -13,4 +13,4 @@ Es ist ein Unity Projekt mit der Unity Version 2021.3.13f1. Es ist auch eine kom
 
 Links sieht man die Anzahl an lebenden Kreisen. Die Anzahl an Mutationen und Duplikationen, die bisher in dem Zyklus waren. Danach die Anzahl an Zyklen und dann die Anzahl an gestorbenen Kreisen. Und dann die ersten 3 Kreise mit der meisten Energie.
 
-Wenn man mit der Maus auf einen Kreis klickt, kann man die Details zum Kreis sehen und wenn man 1, 2 oder 3 drückt, wird man zu dem erst, zweiten oder drittbesten Kreis teleportiert. Die Kamera kann durch Halten der linken Maustaste gesteuert werden, und durch Verwenden des Mausrads ist ein Zoomen möglich.
+Wenn man mit der Maus auf einen Kreis klickt, kann man die Details zum Kreis sehen und wenn man 1, 2 oder 3 drückt, wird man zu dem erst-, zweit- oder drittbesten Kreis teleportiert. Die Kamera kann durch Halten der linken Maustaste gesteuert werden, und durch Verwenden des Mausrads ist ein Zoomen möglich.
